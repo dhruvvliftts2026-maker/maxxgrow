@@ -6,7 +6,7 @@ Mobile-first React + Vite storefront with a dark purple/neon theme.
 
 1. Extract `maxxgrow.zip`.
 2. Upload the folder contents to a new GitHub repository named `maxxgrow`.
-3. Open https://vercel.com and choose **Add New → Project**.
+3. Open https://render.com and choose **Add New → Project**.
 4. Import your `maxxgrow` GitHub repository.
 5. Vercel should detect Vite automatically. Confirm:
    - Framework Preset: **Vite**
