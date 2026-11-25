@@ -1,5 +1,5 @@
 export const catalog = [
-  { id: "followers", name: "Instagram Followers", icon: "◎", items: [["100",19],["200",43],["500",89],["1000",160],["2000",295],["3000",485],["5000",795],["10000",1389]] },
+  { id: "followers", name: "Instagram Followers", icon: "◎", items: [["100",11],["200",22],["500",39],["1000",79],["2000",149],["3000",279],["5000",489],["10000",799]] },
   { id: "indian-followers", name: "Indian Followers", icon: "✦", items: [["100",40],["200",65],["500",145],["1000",250],["2000",400],["3000",589],["5000",984],["10000",1899]] },
   { id: "hq-followers", name: "High Quality Followers · Free Refill", icon: "♛", items: [["200",98],["300",145],["500",245],["1000",489],["2000",989]] },
   { id: "views", name: "Instagram Reel Views", icon: "▶", items: [["1000",10],["2000",15],["5000",28],["10000",40],["20k",55],["50k",80],["100k",140],["1M",589]] },
