@@ -1,8 +1,8 @@
 import { useMemo, useState } from "react";
 import { MessageCircle, Moon, Sun, ShoppingBag, Plus, Menu as MenuIcon, X, ArrowLeft } from "lucide-react";
 import { catalog } from "./data/catalog";
-import { getOrders, saveOrder } from "./utils/guestOrders";
-import ServiceCard from "./components/ServiceCard";
+import { getOrders, saveOrder } from "./utils/createorders.js";
+import ServiceCard from "./components/servicecard.jsx";
 
 const money = n => `₹${Number(n).toFixed(2)}`;
 
